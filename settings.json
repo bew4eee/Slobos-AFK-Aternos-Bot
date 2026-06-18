@@ -9,7 +9,7 @@
     "ip": "sokoprezivljavanje.aternos.me",
     "port": 36967,
     "version": "1.21.11",
-    "try-creative": true
+    "try-creative": false
   },
   "position": {
     "enabled": true,
