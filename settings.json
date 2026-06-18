@@ -9,7 +9,7 @@
     "ip": "sokoprezivljavanje.aternos.me",
     "port": 36967,
     "version": "1.21.11",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Ja sam obican igrac!",
+        "Subscribe to rasic",
+        "Ovo ce da bude top 1 svet!"
       ]
     },
     "chat-log": true,
